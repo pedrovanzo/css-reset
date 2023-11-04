@@ -1,0 +1,22 @@
+{
+  "name": "@omb32/css-reset",
+  "version": "1.0.1",
+  "description": "Default CSS file with basic resets.",
+  "main": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrovanzo/css-reset.git"
+  },
+  "keywords": [
+    "omb"
+  ],
+  "author": "Pedro Vanzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrovanzo/css-reset/issues"
+  },
+  "homepage": "https://github.com/pedrovanzo/css-reset#readme"
+}
