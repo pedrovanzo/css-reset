@@ -1,6 +1,6 @@
 {
   "name": "@omb32/css-reset",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Default CSS file with basic resets.",
   "main": "index.css",
   "scripts": {
